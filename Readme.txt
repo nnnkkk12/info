@@ -23,6 +23,6 @@ git config --global user.email "Ваш email"
 git config --global user.name "Ваше Имя"
 
 
-#Домашнее задание 15.10.2020
 
+#Домашнее задание 15.10.2020
 
